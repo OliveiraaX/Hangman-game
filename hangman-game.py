@@ -1,3 +1,6 @@
+# Script created by OliveiraX and Arthurvmbl
+# GitHub: https://github.com/OliveiraaX
+# GitHub https://github.com/arthurvmbl/
 import requests
 import re
 import unicodedata
